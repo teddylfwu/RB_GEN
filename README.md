@@ -65,7 +65,7 @@ conference on Knowledge Discovery and Data Mining, 2016.
 
 
 ------------------------------------------------------
-Contributors: Lingfei Wu, Eloy Romero
-Created date: August 29, 2016 
-Last update: Sep 15, 2018
+Contributors: Lingfei Wu, Eloy Romero <br/>
+Created date: August 29, 2016 <br/>
+Last update: Sep 15, 2018 <br/>
 
