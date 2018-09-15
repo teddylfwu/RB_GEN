@@ -54,14 +54,14 @@ Lingfei Wu, Ian E.H. Yen, Jie Chen, and Rui Yan, “Revisiting Random Binning Fe
 Fast Convergence and Strong Parallelizability”, In the Proceeding of the 22th SIGKDD 
 conference on Knowledge Discovery and Data Mining, 2016.  
 
-@inproceedings{wu2016revisiting,
-  title={Revisiting random binning features: Fast convergence and strong parallelizability},
-  author={Wu, Lingfei and Yen, Ian EH and Chen, Jie and Yan, Rui},
-  booktitle={Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
-  pages={1265--1274},
-  year={2016},
-  organization={ACM}
-}
+@inproceedings{wu2016revisiting, <br/>
+  title={Revisiting random binning features: Fast convergence and strong parallelizability}, <br/>
+  author={Wu, Lingfei and Yen, Ian EH and Chen, Jie and Yan, Rui}, <br/>
+  booktitle={Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining}, <br/>
+  pages={1265--1274}, <br/>
+  year={2016}, <br/>
+  organization={ACM} <br/>
+} <br/>
 
 
 ------------------------------------------------------
