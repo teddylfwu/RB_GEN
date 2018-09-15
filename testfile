@@ -1,0 +1,9 @@
+d = 5, n = 200, nnz = 999
+2
+5
+169
+mu
+offset
+codeTable
+Approx required space: min 0.00 GiB spec 0.00 GiB
+Read: 0.000883 Write: 0.00069 FeaGen: 0.000403 Total: 0.001976

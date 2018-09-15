@@ -1,0 +1,4 @@
+d = 5, n = 145, nnz = 724
+X.d=5, R=2, sigma=5
+Approx required space: min 0.00 GiB spec 0.00 GiB
+Read: 0.000564 Write: 0.000692 FeaGen: 0.00027 Total: 0.001526
