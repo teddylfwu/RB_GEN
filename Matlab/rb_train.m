@@ -7,7 +7,7 @@ function [varargout] = rb_train(varargin)
 %   DELTA, are generated from the distribution selected by KERNEL and standard
 %   deviation SIGMA. The option for KERNEL are:
 %     0: normal distribution
-%     1: multivariate t-Student 
+%     1: multivariate t-Student (default)
 %     2: t-Student
 %   The bias of the random grids, MU, are generated as uniform distribution [0,1]
 %   times the corresponding widths. COOR(OFFSET(I):OFFSET(I+1)-1,:) are the 
@@ -26,7 +26,7 @@ function [varargout] = rb_train(varargin)
     end
     A = varargin{1};
     if nargin >= 4
-        kernel = varargin{2};
+        kernel = varargin{2}; % kernel = 1 (Laplacian kernel recommended)
         sigma = varargin{3};
         R = varargin{4};
         d = size(A,2);
